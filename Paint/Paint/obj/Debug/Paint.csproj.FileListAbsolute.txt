@@ -1,0 +1,12 @@
+C:\Users\Jjk\Desktop\Source\Visual Studio\.NET Console\NotePad\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Jjk\Desktop\Source\Visual Studio\.NET Console\NotePad\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Jjk\Desktop\Source\Visual Studio\.NET Console\NotePad\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Jjk\Desktop\Source\Visual Studio\.NET Console\NotePad\WindowsFormsApp1\bin\Debug\CSkin.dll
+C:\Users\Jjk\Desktop\Source\Visual Studio\.NET Console\NotePad\WindowsFormsApp1\bin\Debug\CSkin.xml
+C:\Users\Jjk\Desktop\Source\Visual Studio\.NET Console\NotePad\WindowsFormsApp1\obj\Debug\Paint.Form1.resources
+C:\Users\Jjk\Desktop\Source\Visual Studio\.NET Console\NotePad\WindowsFormsApp1\obj\Debug\Paint.FormAbout.resources
+C:\Users\Jjk\Desktop\Source\Visual Studio\.NET Console\NotePad\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Jjk\Desktop\Source\Visual Studio\.NET Console\NotePad\WindowsFormsApp1\obj\Debug\Paint.csproj.GenerateResource.cache
+C:\Users\Jjk\Desktop\Source\Visual Studio\.NET Console\NotePad\WindowsFormsApp1\obj\Debug\Paint.csproj.CopyComplete
+C:\Users\Jjk\Desktop\Source\Visual Studio\.NET Console\NotePad\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Jjk\Desktop\Source\Visual Studio\.NET Console\NotePad\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
